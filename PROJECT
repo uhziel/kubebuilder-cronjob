@@ -1,0 +1,7 @@
+componentConfig: true
+domain: uhziel.github.io
+layout:
+- go.kubebuilder.io/v3
+projectName: kubebuilder-cronjob
+repo: github.com/uhziel/kubebuilder-cronjob
+version: "3"
